@@ -21,15 +21,15 @@ eror = R + '[' + W + '!' + R + ']'
 banner = """
 {}         _nnnn_{}        _________________
 {}        dGGGGMMb{}      |                 |
-{}       @p~qp~~qMb{}   ._| {}craked by JessNoGenit {}|
+{}       @p~qp~~qMb{}   ._| {}Jessika AntiDuda{}|
 {}       M{}({}@{})({}@{}) {}M|{}  /  |_________________|
 {}       @,{}----.{}JM|{}_/
 {}      JS^{}\__/{}  qKL
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}JessNoGenit
-{}   FqM            MMMM    {}Youtube{}: {}Jessika AntiDuda
+   HZM            MMMM    {}Craked {}:{}JessNoGenit
+{}   FqM            MMMM    {}YT- Jessika AntiDuda{}
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
 {}_)      \.{}___.{},|     .'
